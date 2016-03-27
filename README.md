@@ -12,3 +12,6 @@ Notification extend class Service and call firebase in oncreate
 
 https://www.firebase.com/docs/android/
 
+# Note
+
+Create your other logic in app... ok...
